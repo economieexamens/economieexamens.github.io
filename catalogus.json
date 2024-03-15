@@ -1,0 +1,74 @@
+{
+    "overig":[
+        {
+            "name":"Voorbeeldopgave 1 IS-MB-GA-model",
+            "level":"vwo",
+            "topics":["goede tijden, slechte tijden"],
+            "theories":["IS-MB-GA-model"]
+        },
+        {
+            "name":"Voorbeeldopgave 2 IS-MB-GA-model",
+            "level":"vwo",
+            "topics":["goede tijden, slechte tijden"],
+            "theories":["IS-MB-GA-model"]
+        },
+        {
+            "name":"Voorbeeldopgave 3 IS-MB-GA-model",
+            "level":"vwo",
+            "topics":["goede tijden, slechte tijden"],
+            "theories":["IS-MB-GA-model"]
+        },
+        {
+            "name":"Voorbeeldopgave 4 IS-MB-GA-model",
+            "level":"vwo",
+            "topics":["goede tijden, slechte tijden"],
+            "theories":["IS-MB-GA-model"]
+        }
+    ],
+    "2023-1":[
+        {
+            "name":"Content",
+            "level":"vwo",
+            "topics":["ruilen over de tijd"],
+            "theories":["surplus", "maximale winst"]
+        },
+        {
+            "name":"Aruba",
+            "level":"vwo",
+            "topics":["welvaart en groei"],
+            "theories":["Gini-coëfficiënt"]
+        },
+        {
+            "name":"Bij wanbetaling afrekenen",
+            "level":"vwo",
+            "topics":["risico en informatie"],
+            "theories":["principaal-agentprobleem", "averechtse selectie", "moral hazard"]
+        },
+        {
+            "name":"Achter het net vissen",
+            "level":"vwo",
+            "topics":["markt: vraag en aanbod"],
+            "theories":[]
+        },
+        {
+            "name":"Belastingverhoging",
+            "level":"vwo",
+            "topics":["goede tijden, slechte tijden"],
+            "theories":["IS-MB-GA-model"]
+        },
+        {
+            "name":"Circulaire economie",
+            "level":"vwo",
+            "topics":["samenwerken en onderhandelen", "markt: vraag en aanbod"], /*marktvormen en marktfalen?*/
+            "theories":["berovingsprobleem", "break-even"]
+        }
+    ],
+    "2023-2":[
+        {
+            "name":"Macro-economische ontwikkelingen",
+            "level":"vwo",
+            "topics":["welvaart en groei"],
+            "theories":[]
+        }
+    ]
+}
