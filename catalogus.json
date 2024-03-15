@@ -69,6 +69,24 @@
             "level":"vwo",
             "topics":["welvaart en groei"],
             "theories":[]
+        },
+        {
+            "name":"Markt voor hoger onderwijs",
+            "level":"vwo",
+            "topics":["martk: vraag en aanbod"],
+            "theories":["doelmatigheidsverlies", "inverdieneffecten"]
+        },
+        {
+            "name":"Markt voor hoger onderwijs",
+            "level":"vwo",
+            "topics":["markt: vraag en aanbod", "risico en informatie"], /*marktvormen & marktfalen?*/
+            "theories":["elasticiteiten", "principaal-agentprobleem"]
+        },
+        {
+            "name":"Doelbewust depreciëren",
+            "level":"vwo",
+            "topics":["welvaart en groei", "samenwerken en onderhandelen"],
+            "theories":["Nash-evenwicht"]
         }
     ]
 }
